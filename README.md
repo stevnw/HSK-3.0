@@ -3,3 +3,4 @@ wxPython GUI for HSK 3.0 characters and vocab
 
 It is a little messy - it is functional though lol. Need to finish the rest of the csv files and generate audio for them - future Steven problem. For now only the band1_char.csv works. 
 
+![image](https://github.com/user-attachments/assets/27523448-5ab2-42e2-964c-cd6ad07cf85d)
