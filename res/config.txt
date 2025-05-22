@@ -1,0 +1,5 @@
+# simplified or traditional
+characters = 'simplified'
+
+# pinyin or zhuyin
+readings = 'pinyin'
