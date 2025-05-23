@@ -1,5 +1,5 @@
 # simplified or traditional
-characters = 'simplified'
+characters = 'traditional'
 
 # pinyin or zhuyin
 readings = 'pinyin'
