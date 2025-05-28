@@ -7,4 +7,8 @@ Dependencies:
 To run:
 <pre> python main.py </pre>
 
-![image](https://github.com/user-attachments/assets/27523448-5ab2-42e2-964c-cd6ad07cf85d)
+![image](https://github.com/user-attachments/assets/124ee09c-d3aa-4ea4-9df6-870f5cebe766)
+
+![image](https://github.com/user-attachments/assets/a143d071-c99b-45f7-88b8-4530d16b44c2)
+
+Added a method for users to pick the vocab they want to study - this allows for targeted study of these words rather than just the full csvs.
