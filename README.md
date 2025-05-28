@@ -9,6 +9,7 @@ To run:
 
 ![image](https://github.com/user-attachments/assets/124ee09c-d3aa-4ea4-9df6-870f5cebe766)
 
-![image](https://github.com/user-attachments/assets/a143d071-c99b-45f7-88b8-4530d16b44c2)
+
+![image](https://github.com/user-attachments/assets/7d94c843-39a7-4602-ab95-e7b3fc2123f7)
 
 Added a method for users to pick the vocab they want to study - this allows for targeted study of these words rather than just the full csvs.
